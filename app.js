@@ -9,3 +9,8 @@ app.get('/', (req, res) => {
 app.listen(3000, () => {
   console.log('Server running on port 3000');
 });
+
+// New route for testing
+app.get('/test', (req, res) => {
+  res.json({ message: 'Test endpoint' });
+});
