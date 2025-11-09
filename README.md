@@ -12,3 +12,4 @@ This is a test repo for testing all SnapCommit features.
 
 ## New Section
 This is a test change for SnapCommit testing.
+New line in README
