@@ -1,2 +1,4 @@
 Test file 1
 manual baseline
+interactive change A
+Testing stage feature - Sun Nov 16 17:13:23 IST 2025
